@@ -1,0 +1,8 @@
+# Метаданные для gamedev-hub. Хаб читает этот файл из main и показывает на дашборде.
+# phase: idea | prototype | vertical-slice | content | polish | released | paused | archived
+name: Robbers
+tagline: Ограбления как в Payday, но с полной свободой разрушения: копать землю, проламывать стены, разные инструменты
+engine: Godot 4.4
+phase: idea
+tracker: github-issues
+next: ""            # одна строка: что сейчас главное
